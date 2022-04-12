@@ -1,8 +1,8 @@
-# Achievement 4 Python Fundamentals for Data Analysts
+# Python Fundamentals for Data Analysts in Careerfoundrys Data Immersion Course
 
-In this Project for the Data Analyst Immersion Course from Careerfoundry, we started to use python fundamentals for Data Analysts.
+In this Project for the Data Analyst Immersion Course from Careerfoundry, i started to use python fundamentals for Data Analysts.
 
-We have been tasked to identifie and Analyse a Grocery Basket Sales for an existing Company named Instacart who wishes to improve their Sales for certain Products and areas.
+I have been tasked to identifie and Analyse a Grocery Basket Sales for an existing Company named Instacart who wishes to improve their Sales for certain Products and areas.
 
 
 # Key Questions
@@ -31,6 +31,6 @@ Income? Certain types of goods? Family status?
 Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief
 have been fabricated for the purpose of this Achievement.
 
-We have therefore cleaned and  wrangled Data based on all Exercises from the Previous Achievements which resultet in the Final Excel Report for Instacarts Stakeholders
+I have therefore cleaned and  wrangled Data based on all Exercises from the Previous Achievements which resultet in the Final Excel Report for Instacarts Stakeholders
 
 [A4_final_report_Stefan Rieß.xlsx](https://github.com/CinZane/Python-Fundamentals-for-Data-Analysts/files/8462282/A4_final_report_Stefan.Riess.xlsx)
